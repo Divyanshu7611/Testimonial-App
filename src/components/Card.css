@@ -1,0 +1,17 @@
+@media (max-width: 768px) {
+    .image{
+           height: 10px;
+           width: 120px;
+          
+          
+    }
+    .circle{
+        opacity: 0;
+    }
+  }
+  @media (max-width: 582px) {
+    .image{
+          opacity: 0;
+    }
+
+  }
